@@ -3,10 +3,9 @@ import homework13_library
 
 def main():
     recipients = ['alex2010babich@ukr.net']
-    mail_body = 'Text from Dnipro'
-    mail_subject = f"It's a dog \U0001F415"
-    # attachment
-    attachment = 'library.py'
+    mail_body = 'Please see my configuration file in attachment'
+    mail_subject = f"Here is my 'config.py' file"
+    attachment = 'config.py'
 
     homework13_library.send_email(
         recipients=recipients,
