@@ -1,3 +1,4 @@
+import imaplib
 import os
 import smtplib
 from email import encoders
@@ -49,4 +50,11 @@ def send_email(
 
 
 def check_mail():
-    pass
+    PASSWORD = config.TOKEN_API
+    USERNAME = config.USER
+    SERVER = config.IMAP_SERVER
+    imap = imaplib.IMAP4_SSL(SERVER)
+    logged_in = imap.login(USERNAME, PASSWORD)
+    # print(logged_in)
+    # print(logged_in[1][-1].decode())
+    print(imap.select('INBOX'))
