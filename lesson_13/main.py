@@ -15,5 +15,7 @@ def main():
     )
 
 
+homework13_library.check_mail()
+
 if __name__ == '__main__':
     main()
