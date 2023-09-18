@@ -1,0 +1,195 @@
+Aerodrom Belz
+Aerodrom Krupske
+Aerodrom Turijsk
+Anan'iv Airstrip
+Andrushivka
+Artsiz Airfield
+Askaniya-Nova Airport
+Bagerovo Air Base
+Belbek Airport
+Berdyansk Airport
+Bila Tserkva Airfield
+Bilohorodka Heliport
+Biloyarivka Airstrip
+Blagoyevo Air Base
+Bliznyuki Air Base
+Bolshoy Tokmak Air Base
+Borodyanka Air Base
+Boryspil International Airport
+Brody Air Base
+Buzova Glider Field
+Chepelevka Airport
+Cherkasy International Airport
+Cherlyany Airport
+Chernihiv Air Base
+Chernihiv Shestovitsa Airport
+Chernivtsi International Airport
+Chervonoarmiis'ke
+Chervonobirka Airstrip
+Chkalovskiy Airfield
+Chortkiv Air Base
+Chuhuiv Air Base
+ChÐ¾rnobil Heliport
+Dalnik Airfield
+Dmitrievka Airfield
+Dnipropetrovsk International Airport
+Dobryanka Airfield
+Dolgintsevo Air Base
+Donetsk International Airport
+Donuzlav Air Base
+Drohobych Airfield
+Dubno Air Base
+Dymer Airstrip
+Dzhankoy Airport
+Filiutka
+Foros Helipad
+Frunzivka Airstrip
+Genichesk Air Base
+Gogoliv Airfield
+Gora Klementyeva Airfield
+Gorodnya Air Base
+Gostomel Airport
+Gostra Mogila Airfield
+Gvardeyskoe Air Base
+Hardyshivka Airstrip
+Hydropark
+Iskrivka Airstrip
+Ivano-Frankivsk International Airport
+Iziaslav
+Izmail Airport
+Izyum Air Base
+Kacha Air Base
+Kakhnovka Airfield
+Kalinivka Air Base
+Kamyanka Airfield
+Kamyanka Airfield
+Kanatove Air Base
+Karabachyn Airstrip
+Karankut Air Base
+Kerch Airport
+Kharkiv International Airport
+Kharkiv North Airport
+Kherson International Airport
+Khersones Air Base
+Khmelnytskyi Airport
+Kiev Chaika
+Kiev Zhuliany International Airport
+Kiliya Airport
+Kirovograd Airport
+Kirovskoe Air Base
+Kobelyachok Airstrip
+Kolomiya Airport
+Konotop Air Base
+Kornych Air Base
+Korostelivka Airstrip
+Korotych Airfield
+Kosino Spa Resort
+Kramatorsk Airport
+Krasni Okny Airfield
+Kremydivka Airfield
+Kruglaya Bukhta Heliport
+Kryvyi Rih International Airport
+Kryzhopil Airstrip
+Ksaverivka Airfield
+Kupyansk Air Base
+Lanivtsi Airstrip
+Lebedyn Air Base
+Lidavo Airstrip
+Liman Airfield
+Limanske Airfield
+Liubsha Air Base
+Lokhvitsya Airport
+Luhansk International Airport
+Lutsk Air Base
+Lutsk Airport
+Luzhani Airfield
+Lviv International Airport
+Lyneya Airstrip
+Mala Vyska Airfield
+Malyn Airstrip
+Mariinsky park helipad
+Mariupol International Airport
+Mayske Airfield
+Melitopol Air Base
+Mezhigyrya Heliport
+Mospyne Airfield
+Mukachevo Air Base
+Mykolaiv Air Base
+Mykolaiv International Airport
+Mykolaivka-Novorosiis'ka
+Myrhorod Air Base
+Nalivaykovka
+Narodychi
+Nizhyn Air Base
+Nova Vasylivka Airstrip
+Novopavlivka Airstrip
+Ochakiv Air Base
+Odessa International Airport
+Okhtyrka Air Base
+Oktyabrskoe Air Base
+Oleksandriya Air Base
+Orekhovo airfield
+Ovruch Air Base
+Ozerne Air Base
+Palianychyntsi Airstrip
+Palmira Airfield
+Perekop Airfield
+Pidhirya Airfield
+Pidverbtsi Airstrip
+Pishchanka Airstrip
+Pogorelovka Airstrip
+Pohrebyshche
+Poltava Air Base
+Pryluki Air Base
+Pustogorod Air Base
+Rafalivka Helicopter Base
+Respect Hall Helipad
+Risovoye Airfield
+Rivne International Airport
+Romashky Airstrip
+Rudnya Airstrip
+Saki Air Base
+Sambir Air Base
+Sevastopol Naval Institute Helipad
+Shevchenkove Airstrip
+Shiroke Airfield
+Sievierodonetsk Airport
+Simferopol International Airport
+Skadovsk Airport
+Smodna Airfield
+Sovyetskiy Air Base
+Starokostiantyniv Air Base
+Stryi Air Base
+Sumy Airport
+Suprunovka Airport
+Sutiski
+Svyatoshyn Airport
+Tal'ne
+Ternopil International Airport
+Troits'ke Airstrip
+Tsuniv Airfield
+Turynka
+Uman Air Base
+Uzhhorod International Airport
+Valeryanivka Airfield
+Vasylkiv Air Base
+Velyka Krucha Air Base
+Vinnytsia/Gavyryshivka Airport
+Volodimirivka Airstrip
+Voroniv Airfield
+Voznesensk Air Base
+Vychivka Helicopter Base
+Yalta Heliport
+Yenakiyeve Airfield
+Yevpatoriya Airport
+Yukharina Balka Airfield
+Yuzhniy Airfield
+Zabroshennyy aerodrom
+Zahnitkiv Airstrip
+Zaporizhzhia International Airport
+Zavodskoe Airfield
+Zhalizhnia
+Zhovti Vody Airstrip
+Zhovtneve Air Base
+Zhovtneve Air Base
+Zhytomyr Airport
